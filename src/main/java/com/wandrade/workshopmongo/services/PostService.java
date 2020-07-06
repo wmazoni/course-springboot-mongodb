@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.wandrade.workshopmongo.domain.Post;
-import com.wandrade.workshopmongo.domain.User;
 import com.wandrade.workshopmongo.repository.PostRepository;
 import com.wandrade.workshopmongo.services.exception.ObjectNotFoundException;
 
